@@ -1,0 +1,14 @@
+{
+  "name": "css-clock",
+  "version": "1.0.0",
+  "description": "A clock with css and js",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Saurabh Bharti",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
